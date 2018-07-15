@@ -40,19 +40,6 @@ class PassengerTrain implements Train {
     }
 
     @Override
-    public void sortingByComfortClass(RollingStock[] passengerTrain) {
-//        for (int i = passengerTrain.length - 1; i > 0; i--) {
-//            for (int j = 0; j < i; j++) {
-//                if (passengerTrain[j].getComfortClassCar() > passengerTrain[j + 1].getComfortClassCar()) {
-//                    RollingStock tmp = passengerTrain[j];
-//                    passengerTrain[j] = passengerTrain[j + 1];
-//                    passengerTrain[j + 1] = tmp;
-//                }
-//            }
-//        }
-    }
-
-    @Override
     public int countOfPassengersTrain(RollingStock[] passengerTrain) {
         int countOfPassengers = 0;
         for (RollingStock aPassengerTrain : passengerTrain)
