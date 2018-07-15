@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f35d253-8df8-418e-af15-1de93a30b273" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/Coupe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/Coupe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/FastTrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/FastTrain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/PassengerTrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/PassengerTrain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/RailwayStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/RailwayStation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/RollingStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/RollingStock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport2/Coupe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport2/Coupe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport2/FastTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport2/FastTrain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport2/PassengerTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport2/PassengerTrain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport2/RailwayStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport2/RailwayStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport2/RollingStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport2/RollingStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport2/SedentaryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport2/SedentaryCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport2/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport2/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Transport2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Transport2.zip" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +18,7 @@
       <file leaf-file-name="RailwayStation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Transport2/RailwayStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="17">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
@@ -73,18 +61,6 @@
                 <element signature="e#935#936#0" expanded="true" />
                 <element signature="e#987#988#0" expanded="true" />
                 <element signature="e#1041#1042#0" expanded="true" />
-                <element signature="e#1075#1076#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1144#1145#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1220#1221#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
-                <element signature="e#1328#1329#0" expanded="true" />
-                <element signature="e#1394#1395#0" expanded="true" />
-                <element signature="e#1427#1428#0" expanded="true" />
-                <element signature="e#1463#1464#0" expanded="true" />
-                <element signature="e#1514#1515#0" expanded="true" />
-                <element signature="e#1564#1565#0" expanded="true" />
                 <marker date="1531657247437" expanded="true" signature="521:550" ph="..." />
                 <marker date="1531657247437" expanded="true" signature="559:866" ph="..." />
               </folding>
@@ -96,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/Transport2/Train.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -104,14 +80,8 @@
       <file leaf-file-name="FastTrain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Transport2/FastTrain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="663">
               <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#1673#1674#0" expanded="true" />
-                <element signature="e#1707#1708#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -119,7 +89,7 @@
       <file leaf-file-name="PassengerTrain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Transport2/PassengerTrain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="510">
               <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
             </state>
           </provider>
@@ -232,9 +202,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -454,16 +424,24 @@
       <workItem from="1530447271807" duration="9658000" />
       <workItem from="1530562655116" duration="48691000" />
       <workItem from="1531338870285" duration="10741000" />
-      <workItem from="1531652344622" duration="6089000" />
+      <workItem from="1531652344622" duration="6665000" />
+      <workItem from="1531664779470" duration="201000" />
     </task>
+    <task id="LOCAL-00001" summary="15_07_18">
+      <created>1531663393065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531663393065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293315000" />
+    <option name="totallyTimeSpent" value="294107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -474,8 +452,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073206" side_tool="true" weight="0.26550078" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.49926794" visible="true" weight="0.26550078" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49926794" weight="0.26550078" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3290938" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -500,6 +478,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15_07_18" />
+    <option name="LAST_COMMIT_MESSAGE" value="15_07_18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,13 +773,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Transport2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transport2/Test.java" />
     <entry file="jar://D:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -814,20 +790,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Transport2/FastTrain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="663">
           <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#1673#1674#0" expanded="true" />
-            <element signature="e#1707#1708#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Transport2/PassengerTrain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="510">
           <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
@@ -841,18 +811,6 @@
             <element signature="e#935#936#0" expanded="true" />
             <element signature="e#987#988#0" expanded="true" />
             <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1075#1076#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1328#1329#0" expanded="true" />
-            <element signature="e#1394#1395#0" expanded="true" />
-            <element signature="e#1427#1428#0" expanded="true" />
-            <element signature="e#1463#1464#0" expanded="true" />
-            <element signature="e#1514#1515#0" expanded="true" />
-            <element signature="e#1564#1565#0" expanded="true" />
             <marker date="1531657247437" expanded="true" signature="521:550" ph="..." />
             <marker date="1531657247437" expanded="true" signature="559:866" ph="..." />
           </folding>
@@ -876,7 +834,7 @@
     <entry file="file://$PROJECT_DIR$/src/Transport2/Train.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -889,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Transport2/RailwayStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="17">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
