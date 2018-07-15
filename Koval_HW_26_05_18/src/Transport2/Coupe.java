@@ -1,8 +1,8 @@
 package Transport2;
 
-class Coupe extends RollingStock{
+class Coupe extends RollingStock {
 
-    public Coupe() {
+    Coupe() {
         super();
         setAmountOfPassengersCar(38);
         setBaggageWeight(1400.0);

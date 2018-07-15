@@ -30,7 +30,7 @@ class RollingStock {
         this.comfortClassCar = comfortClassCar;
     }
 
-    public String getNameCar() {
+    String getNameCar() {
         return nameCar;
     }
 

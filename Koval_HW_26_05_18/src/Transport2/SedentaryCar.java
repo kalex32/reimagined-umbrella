@@ -1,8 +1,8 @@
 package Transport2;
 
-class SedentaryCar extends RollingStock{
+class SedentaryCar extends RollingStock {
 
-    SedentaryCar(){
+    SedentaryCar() {
 
         super();
         setAmountOfPassengersCar(90);
