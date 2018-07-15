@@ -27,15 +27,15 @@ class ShapeOver {
         this.name = name;
     }
 
-    public String getName() {
+    String getName() {
         return name;
     }
 
-    public double getWidth() {
+    double getWidth() {
         return width;
     }
 
-    public double getHeight() {
+    double getHeight() {
         return height;
     }
 
