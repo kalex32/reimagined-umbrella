@@ -14,6 +14,6 @@ class Developer extends Profession {
 
     @Override
     String toDoWork() {
-        return null;
+        return "works";
     }
 }
