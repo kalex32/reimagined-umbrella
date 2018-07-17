@@ -8,6 +8,7 @@ class Runner {
 
         developer.setName("Vasya");
         developer2.setIndustry("trade");
+        System.out.println();
         System.out.println("Developer "+developer.getName()+" "+developer.toDoWork()+" in the "+developer.getIndustry()
         +" of the specialty "+developer.getSpeciality());
 
