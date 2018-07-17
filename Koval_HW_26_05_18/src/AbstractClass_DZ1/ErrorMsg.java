@@ -6,7 +6,7 @@ class ErrorMsg {
     final int DISCERR=2;
     final int INDEXERR=3;
 
-    String[] msg = {
+    private String[] msg = {
             "Ошибки вывода",
             "Ошибки ввода",
             "Остутствует место на диске",

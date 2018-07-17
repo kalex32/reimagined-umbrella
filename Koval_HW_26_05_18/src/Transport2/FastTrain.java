@@ -22,7 +22,7 @@ class FastTrain implements Train {
     };
 
     void sorting() {
-        PassengerTrain.sortingByComfortClass(fastTrain);
+        sortingByComfortClass(fastTrain);
         System.out.println("Сортировка " + getNameOfTrain() + " на основе уровня комфортности:");
 
         for (int i = 0; i < fastTrain.length; i++) {
@@ -31,7 +31,6 @@ class FastTrain implements Train {
         }
 
     }
-
 
     String getNameOfTrain() {
         return nameOfTrain;
