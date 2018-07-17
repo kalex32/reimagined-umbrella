@@ -8,6 +8,7 @@ class Runner {
 
         developer.setName("Vasya");
         developer2.setIndustry("trade");
+        System.out.println();
         System.out.println("Developer "+developer.getName()+" "+developer.toDoWork()+" in the "+developer.getIndustry()
         +" of the specialty "+developer.getSpeciality());
 
@@ -19,6 +20,7 @@ class Runner {
         System.out.println("Developer "+developer2.getName()+" "+developer2.toDoWork()+" in "+developer2.getIndustry()+
                 " and writes in "+((Developer) developer2).getSpeciality());
 
+        System.out.println();
         System.out.println(pilot.toString());
     }
 }
