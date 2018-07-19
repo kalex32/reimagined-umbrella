@@ -2,139 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f35d253-8df8-418e-af15-1de93a30b273" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass_DZ2/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass_DZ2/Phones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass_DZ2/PhonesAndTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayRes/ArrayRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayRes/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/Callback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/ErrorMsg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/OverRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/RectangleOver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/RunnerFinal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/ShapeOver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/AbstractClass_DZ1/TriangleOver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Concat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ1/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ1/CircleRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ1/RectangularTriangles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ1/RectangularTrianglesSimilars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ1/Segments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ1/SegmentsCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ2/RecTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ2/RecTriangleHeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ2/Rectangles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ConstructingObjects_DZ2/RectanglesEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Contains.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Discont.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/ConstrRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/ShapeConstr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/TriangleConstr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/VarArgs2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/VarArgs3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/VarArgs4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/VariableLengthArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ1/VariableLengthArgsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/DomesticAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Eating.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/FaunaRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Flying.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Goldfish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Jumping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Mammalian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Pike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Running.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Fauna/Swimming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Sleeping/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Sleeping/SleepStart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Inheritance_DZ2/Sleeping/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/NonTrivial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OOP_DZ1/EvenWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OOP_DZ1/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OOP_DZ1/Str_2_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OOP_DZ2/MinMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OOP_DZ2/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OOP_DZ2/Trapezoid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OneZeroArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverloadConstruct/Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverloadConstruct/DateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverloadConstruct/TheStoreAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverloadConstruct/TheStoreAccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/Brick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/Brick2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/BrickRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/BrickRunner2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/ClassOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/ClassOneRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/Err.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/ErrMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/ErrMessage1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/ErrMsgRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/ErrorMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/InitConstruct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/InitConstructRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/OverMethRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/OverrideConstruct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/OverrideConstructRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/OverrideMethod1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/OverrideMethod2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/OverrideMethods/OverrideMethodRunner1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ1/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ1/AccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ1/RecTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ1/RecTriangleHeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ1/Rectangles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ1/RectanglesEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Override_DZ2/CarRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Password.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/PopularLetter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/StartWith.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/StringArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/FiveNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/LetterE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/Print12345.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/StrCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/StringArr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/StringLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/SubStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/TenNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/String_DZ/Word.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Symbol.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/CarsMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/Coupe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/DieselLocomotive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/EconomClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/ElectricLocomotive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/RollingStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/SedentaryCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/SleepingCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/Train.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport/TrainRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/CouchetteCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/Coupe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/FastTrain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/PassengerTrain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/RailwayStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/RollingStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/SedentaryCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/SleepingCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/Transport2/Train.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Koval_HW_26_05_18/ValueX.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,7 +19,7 @@
       <file leaf-file-name="RailwayStation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Transport2/RailwayStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state>
               <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
             </state>
           </provider>
@@ -158,45 +28,8 @@
       <file leaf-file-name="FastTrain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Transport2/FastTrain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="527">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ1/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Profession.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ1/Profession/Profession.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-              <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Developer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ1/Profession/Developer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -204,7 +37,7 @@
       <file leaf-file-name="Pilot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ1/Profession/Pilot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="340">
               <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               <folding>
                 <element signature="e#288#289#0" expanded="true" />
@@ -229,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ2/Goods.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -238,16 +71,44 @@
         <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ2/PhonesAndTabs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Phones.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Phones.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ2/Phones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayRes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayRes/ArrayRes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArrayRes/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -257,8 +118,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -273,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Fauna/Flying.java" />
-        <option value="$PROJECT_DIR$/src/Fauna/Running.java" />
-        <option value="$PROJECT_DIR$/src/Fauna/Swimming.java" />
         <option value="$PROJECT_DIR$/src/Fauna/Jumping.java" />
         <option value="$PROJECT_DIR$/src/Fauna/Eating.java" />
         <option value="$PROJECT_DIR$/src/DZ2_Inheritance/Fauna/Swimming.java" />
@@ -322,8 +180,11 @@
         <option value="$PROJECT_DIR$/src/AbstractClass_DZ1/Profession/Developer.java" />
         <option value="$PROJECT_DIR$/src/AbstractClass_DZ1/Profession/Pilot.java" />
         <option value="$PROJECT_DIR$/src/AbstractClass_DZ1/Profession/Runner.java" />
-        <option value="$PROJECT_DIR$/src/AbstractClass_DZ2/PhonesAndTabs.java" />
         <option value="$PROJECT_DIR$/src/AbstractClass_DZ2/Phones.java" />
+        <option value="$PROJECT_DIR$/src/AbstractClass_DZ2/PhonesAndTabs.java" />
+        <option value="$PROJECT_DIR$/src/AbstractClass_DZ2/Goods.java" />
+        <option value="$PROJECT_DIR$/src/ArrayRes/ArrayRes.java" />
+        <option value="$PROJECT_DIR$/src/ArrayRes/Run.java" />
       </list>
     </option>
   </component>
@@ -350,20 +211,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Koval_HW_26_05_18" type="b2602c69:ProjectViewProjectNode" />
               <item name="Koval_HW_26_05_18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Koval_HW_26_05_18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Koval_HW_26_05_18" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Koval_HW_26_05_18" type="b2602c69:ProjectViewProjectNode" />
@@ -393,12 +246,21 @@
               <item name="Koval_HW_26_05_18" type="b2602c69:ProjectViewProjectNode" />
               <item name="Koval_HW_26_05_18" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayRes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Koval_HW_26_05_18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Koval_HW_26_05_18" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Transport2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,20 +302,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner">
+  <component name="RunManager" selected="Application.Run (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="OverRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClass_DZ1.OverRunner" />
-      <module name="Koval_HW_26_05_18" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AbstractClass_DZ1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="RailwayStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Transport2.RailwayStation" />
@@ -462,6 +313,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Transport2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayRes.Run" />
+      <module name="Koval_HW_26_05_18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayRes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -541,19 +403,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.OverRunner" />
       <item itemvalue="Application.RunnerFinal" />
       <item itemvalue="Application.Run" />
       <item itemvalue="Application.RailwayStation" />
       <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.Run (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.RailwayStation" />
         <item itemvalue="Application.RunnerFinal" />
-        <item itemvalue="Application.OverRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -588,7 +450,8 @@
       <workItem from="1531652344622" duration="6665000" />
       <workItem from="1531664779470" duration="1138000" />
       <workItem from="1531670327939" duration="16398000" />
-      <workItem from="1531860821087" duration="1146000" />
+      <workItem from="1531860821087" duration="1759000" />
+      <workItem from="1531948283040" duration="4850000" />
     </task>
     <task id="LOCAL-00001" summary="15_07_18">
       <created>1531663393065</created>
@@ -632,11 +495,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531857994497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="open DZ2, create interfaces">
+      <created>1531863425600</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1531863425600</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="312573000" />
+    <option name="totallyTimeSpent" value="318036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -644,6 +514,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3290938" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -651,11 +522,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.34022257" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49926794" weight="0.26550078" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.49926794" visible="true" weight="0.26550078" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32838285" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -669,7 +540,6 @@
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Messages" order="1" weight="0.3290938" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -720,35 +590,15 @@
     <MESSAGE value="Create package Profession" />
     <MESSAGE value="close package" />
     <MESSAGE value="StringBuilder" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringBuilder" />
+    <MESSAGE value="open DZ2, create interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="open DZ2, create interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="25" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OOP_DZ2/MinMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritance_DZ1/ShapeConstr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritance_DZ1/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Inheritance_DZ1/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1054,21 +904,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Transport2/RailwayStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state>
           <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Transport2/FastTrain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="527">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ1/Profession/Pilot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="340">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           <folding>
             <element signature="e#288#289#0" expanded="true" />
@@ -1086,24 +936,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ2/Goods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ2/PhonesAndTabs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ2/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractClass_DZ2/Phones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayRes/ArrayRes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayRes/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
