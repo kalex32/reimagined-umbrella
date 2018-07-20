@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f35d253-8df8-418e-af15-1de93a30b273" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayRes/ArrayRes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayRes/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayRes/ArrayRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayRes/ArrayRes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayRes/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayRes/Run.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayRes.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ArrayRes.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ArrayRes/ArrayRes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="340">
+              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
               <folding>
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#137#138#0" expanded="true" />
@@ -97,18 +97,18 @@
                 <element signature="e#205#206#0" expanded="true" />
                 <element signature="e#258#259#0" expanded="true" />
                 <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayRes/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -451,7 +451,7 @@
       <workItem from="1531664779470" duration="1138000" />
       <workItem from="1531670327939" duration="16398000" />
       <workItem from="1531860821087" duration="1759000" />
-      <workItem from="1531948283040" duration="4850000" />
+      <workItem from="1531948283040" duration="5868000" />
     </task>
     <task id="LOCAL-00001" summary="15_07_18">
       <created>1531663393065</created>
@@ -502,15 +502,21 @@
       <option name="project" value="LOCAL" />
       <updated>1531863425600</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ArrayRes">
+      <created>1532037004783</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1532037004784</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318036000" />
+    <option name="totallyTimeSpent" value="319054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -591,7 +597,8 @@
     <MESSAGE value="close package" />
     <MESSAGE value="StringBuilder" />
     <MESSAGE value="open DZ2, create interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="open DZ2, create interfaces" />
+    <MESSAGE value="ArrayRes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayRes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -964,10 +971,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayRes/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayRes/ArrayRes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="340">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding>
             <element signature="e#111#112#0" expanded="true" />
             <element signature="e#137#138#0" expanded="true" />
@@ -975,16 +989,9 @@
             <element signature="e#205#206#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayRes/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>

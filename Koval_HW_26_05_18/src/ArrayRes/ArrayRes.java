@@ -5,8 +5,8 @@ import java.util.Arrays;
 class ArrayRes {
     private int[] arrayR;
 
-    ArrayRes(int[] x) {
-        arrayR = x;
+    ArrayRes(int x) {
+        this.arrayR = new int[x];
     }
 
     int[] getArrayR() {
@@ -17,7 +17,7 @@ class ArrayRes {
         arrayR[index] = value;
     }
 
-    void arrayPrint(ArrayRes[] arrayRes) {
-        System.out.println(Arrays.toString(arrayRes));
+    void arrayPrint(int[] arrayR) {
+        System.out.println(Arrays.toString(arrayR));
     }
 }
