@@ -11,7 +11,7 @@ public class Run {
         int value = scanner.nextInt();
         System.out.println("Введите индекс элемента:");
         int index = scanner.nextInt();
-        //ArrayRes arrayRes1=new ArrayRes(scanner.nextInt());
+
         arrayRes.arrayInsert(value, index);
         arrayRes.arrayPrint(arrayRes.getArrayR());
     }
