@@ -13,11 +13,11 @@ class Xiaomi extends SmartPhone {
         return markPhone;
     }
 
-    @Override
-    public String toString() {
-        final StringBuffer sb = new StringBuffer("Xiaomi{");
-        sb.append("markPhone='").append(markPhone).append('\'');
-        sb.append('}');
-        return sb.toString();
-    }
+//    @Override
+//    public String toString() {
+//        final StringBuffer sb = new StringBuffer("Xiaomi{");
+//        sb.append("markPhone='").append(markPhone).append('\'');
+//        sb.append('}');
+//        return sb.toString();
+//    }
 }

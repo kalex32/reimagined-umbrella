@@ -49,17 +49,19 @@ abstract class SmartPhone implements MobilePhones {
         return megapicOfCam;
     }
 
-    @Override
-    public String toString() {
-        final StringBuffer sb = new StringBuffer("SmartPhone{");
-        sb.append("os='").append(os).append('\'');
-        sb.append(", diagonalOfDisplay=").append(diagonalOfDisplay);
-        sb.append(", amountOfSim=").append(amountOfSim);
-        sb.append(", ram=").append(ram);
-        sb.append(", rom=").append(rom);
-        sb.append(", capacityOfAccum=").append(capacityOfAccum);
-        sb.append(", megapicOfCam=").append(megapicOfCam);
-        sb.append('}');
-        return sb.toString();
-    }
+
+
+//    @Override
+//    public String toString() {
+//        final StringBuffer sb = new StringBuffer("SmartPhone{");
+//        sb.append("os='").append(os).append('\'');
+//        sb.append(", diagonalOfDisplay=").append(diagonalOfDisplay);
+//        sb.append(", amountOfSim=").append(amountOfSim);
+//        sb.append(", ram=").append(ram);
+//        sb.append(", rom=").append(rom);
+//        sb.append(", capacityOfAccum=").append(capacityOfAccum);
+//        sb.append(", megapicOfCam=").append(megapicOfCam);
+//        sb.append('}');
+//        return sb.toString();
+//    }
 }
