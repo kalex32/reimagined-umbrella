@@ -1,6 +1,6 @@
 package AbstractClass_DZ2;
 
-class Xiaomi extends SmartPhone {
+abstract class Xiaomi extends SmartPhone {
     private String markPhone;
 
     Xiaomi(String os, double diagonalOfDisplay, int amountOfSim, int ram, int rom, int capacityOfAccum, int megapicOfCam,
@@ -12,6 +12,8 @@ class Xiaomi extends SmartPhone {
     String getMarkPhone() {
         return markPhone;
     }
+
+
 
 //    @Override
 //    public String toString() {

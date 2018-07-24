@@ -28,4 +28,9 @@ class XiaomiRedmiNote5 extends Xiaomi implements MobilePhones{
         sb.append("Разрешение основной камеры, мегапикс - ").append(getMegapicOfCam()).append('\n');
         return sb.toString();
     }
+
+    @Override
+    public String goodsInfo(SmartPhone smartPhone) {
+        return toString();
+    }
 }
