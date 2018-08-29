@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="scan" value="Scanner scanner = new Scanner(System.in);&#10;$END$" description="create scanner" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
